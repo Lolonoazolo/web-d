@@ -1,0 +1,62 @@
+body {
+  background-color: rosybrown;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.todo-list {
+  padding: 20px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  width: 30%;
+
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+.task1 {
+  background-color: aquamarine;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.task2 {
+  display: block;
+  background-color: aquamarine;
+  padding: 10px;
+  width: 90%;
+  margin: 20px;
+  height: fit-content;
+
+}
+
+.task3 {
+  display: block;
+  background-color: aquamarine;
+  padding: 10px;
+  width: 90%;
+  margin: 20px;
+  height: fit-content;
+
+
+}
+
+.task4 {
+  display: block;
+  background-color: aquamarine;
+  padding: 10px;
+  width: 90%;
+  margin: 20px;
+  height: fit-content;
+}
+
+.sub-item {
+  padding: 20px;
+}
